@@ -1,0 +1,29 @@
+body{background-color:#808484;
+    font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;}
+h1{width:500px;
+    text-align: center;
+    margin:0 auto;
+    background-color:#161A1D;
+    color:#a70006;
+    padding: 1em;}
+h2{color:#7d0a0c;
+    width:500px;
+    margin:1em auto;
+    text-align: center;}
+img{display:block;
+    margin:0 auto;}
+h1,h2{font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
+p,ol,li,a{
+    width: 500px;
+    margin: 0.5em auto;
+    color:#14191c;}
+a{text-decoration: none;}
+a:hover{color: #BA181B;}
+p.credits{font: 0.7em sans-serif;}
+p.start{font-style:italic;
+margin:1em auto ;}
